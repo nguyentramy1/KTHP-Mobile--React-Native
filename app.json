@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MyPJ",
+    "slug": "MyPJ",
+    "version": "1.0.0",
+    "scheme": "codebox",
+    "extra": {
+      "eas": {
+        "projectId": "0d8ea552-2121-4cdc-a830-c67aa5867643"
+      }
+    }
+  },
+  "android": {
+    "package": "com.tubeguruji.codebox"
+  }
+}
